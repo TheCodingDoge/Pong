@@ -1,5 +1,4 @@
-# Pong
-
+# Breakout
 
 ## What is this coded in?
 HTML
@@ -13,3 +12,6 @@ DogeyDogs(TheCodingDoge)
 
 ## Clone this
 git clone https://github.com/TheCodingDoge/Pong.git
+
+## Help
+Mozilla
