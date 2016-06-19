@@ -1,9 +1,9 @@
-# Breakout
+# Pong
 
 ## What is this coded in?
 HTML
 
-## What is pong
+## What is Pong?
 Pong is the game with two paddles and a ball,
 It is essentialy the first ever table tennis game
 
@@ -11,7 +11,12 @@ It is essentialy the first ever table tennis game
 DogeyDogs(TheCodingDoge)
 
 ## Clone this
-git clone https://github.com/TheCodingDoge/Breakout.git
+git clone https://github.com/TheCodingDoge/Pong.git
 
-## Help
-Mozilla
+## Controls
+### Player 1
+Up Arrow = Up
+Down Arrow = Down
+### Player 2
+W = Up
+S = Down
