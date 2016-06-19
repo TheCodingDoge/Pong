@@ -12,9 +12,4 @@ It is essentialy the first ever table tennis game
 DogeyDogs(TheCodingDoge)
 
 ## Clone this
-'''git
 git clone https://github.com/TheCodingDoge/Pong.git
-'''
-
-## Website
-Click [here](thecodingdoge.github.io)
