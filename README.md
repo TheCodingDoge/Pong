@@ -11,7 +11,7 @@ It is essentialy the first ever table tennis game
 DogeyDogs(TheCodingDoge)
 
 ## Clone this
-git clone https://github.com/TheCodingDoge/Pong.git
+git clone https://github.com/TheCodingDoge/Breakout.git
 
 ## Help
 Mozilla
