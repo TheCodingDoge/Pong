@@ -1,6 +1,6 @@
 {
   "name": "Pong",
   "tagline": "A Repository made by DogeyDogs(TheCodingDoge)",
-  "body": "### Welcome\r\nHello and welcome to [@DogeyDogs](http://www.twitter.com/REALDogeyDogs) first ever repository based on the game,\r\nPong\r\n\r\n### What is Pong?\r\nPong is a game where you have a paddle each and you have to try and score against the other player.\r\nEssentially it is table tennis, old style.\r\n\r\n### How many players?\r\n2.\r\n\r\n### What are the controls?\r\n## Player 1:\r\nUP ARROW = Up\r\nDOWN ARROW = Down\r\n## Player 2:\r\nW = Up\r\nS = Down\r\n\r\n'''javascript\r\nfunction codingisawesome() {\r\n  console.log(\"CODING. it may be the closest thing we will ever have to a superpower...\");\r\n}\r\n'''\r\n",
+  "body": "### Welcome\r\nHello and welcome to [@DogeyDogs](http://www.twitter.com/REALDogeyDogs) first ever repository based on the game,\r\nPong\r\n\r\n### What is Pong?\r\nPong is a game where you have a paddle each and you have to try and score against the other player.\r\nEssentially it is table tennis, old style.\r\n\r\n### How many players?\r\n2.\r\n\r\n### What are the controls?\r\n## Player 1:\r\nUP ARROW = Up\r\nDOWN ARROW = Down\r\n## Player 2:\r\nW = Up\r\nS = Down\r\n\r\n### What coding language?\r\nHTML.\r\n\r\n### Mobile Support?\r\nYes.\r\n\r\n'''javascript\r\nfunction codingisawesome() {\r\n  console.log(\"CODING. it may be the closest thing we will ever have to a superpower...\");\r\n}\r\n'''\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
